@@ -360,6 +360,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40940edd2977a8643aacd923201e7bc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  questionText: {fileID: 496412728}
+  question: {fileID: 11400000, guid: b4270639af975bf45ba266f2ccbc99ae, type: 2}
+  answerButtons:
+  - {fileID: 21018493}
+  - {fileID: 1012983905}
+  - {fileID: 679258935}
+  - {fileID: 989819557}
 --- !u!1 &165116514
 GameObject:
   m_ObjectHideFlags: 0

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: When did WW2 begin?
+  answers:
+  - 1912
+  - 1923
+  - 1958
+  - 1939
+  correctAnswerIndex: 0
