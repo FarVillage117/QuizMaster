@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: Which is the name of the famous German attack strategy?
+  answers:
+  - Merkur
+  - Luftwaffe
+  - Blitzkrieg
+  - Nordlicht
+  correctAnswerIndex: 2

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: Who was the president of the U.S during WW2?
+  answers:
+  - Abraham Lincoln
+  - Franklin D. Roosevelt
+  - John F. Kennedy
+  - Richard Nixon
+  correctAnswerIndex: 1

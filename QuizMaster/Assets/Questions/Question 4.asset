@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Who pushed the U.S. to join the war?
+  answers:
+  - Japan
+  - Spain
+  - Austria
+  - Russia
+  correctAnswerIndex: 0
